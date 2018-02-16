@@ -1,0 +1,63 @@
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Bot Application.dll.config
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Bot Application.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Bot Application.pdb
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Autofac.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Chronic.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.Bot.Builder.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.Bot.Connector.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Newtonsoft.Json.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\System.Net.Http.Formatting.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\System.Web.Http.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\System.Web.Http.WebHost.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Autofac.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.Bot.Builder.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.Bot.Connector.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\Newtonsoft.Json.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\System.Net.Http.Formatting.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\System.Web.Http.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\System.Web.Http.WebHost.xml
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\obj\Debug\pizzariahellowolrd.csprojResolveAssemblyReference.cache
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\obj\Debug\pizzariahellowolrd.csproj.CoreCompileInputs.cache
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\obj\Debug\Bot Application.dll
+C:\Users\Lab\source\repos\pizzariahellowolrd\pizzariahellowolrd\obj\Debug\Bot Application.pdb
