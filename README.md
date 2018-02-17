@@ -1,2 +1,2 @@
 # BotQNA
-projeto utilizando o QNA Maker - exemplo ministrado na Maratona Bots.
+Exemplo de bot utilizando API QNAMaker
